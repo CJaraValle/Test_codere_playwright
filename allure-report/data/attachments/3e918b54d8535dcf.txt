@@ -1,0 +1,8 @@
+[ERROR] Error: page.waitForSelector: Page closed
+=========================== logs ===========================
+waiting for locator('button.btAccess') to be visible
+  locator resolved to hidden <button ion-button="" class="btAccess bar-button bar-but…>…</button>
+  locator resolved to hidden <button ion-button="" class="btAccess bar-button bar-but…>…</button>
+  locator resolved to hidden <button ion-button="" class="btAccess bar-button bar-but…>…</button>
+  locator resolved to hidden <button ion-button="" class="btAccess bar-button bar-but…>…</button>
+============================================================

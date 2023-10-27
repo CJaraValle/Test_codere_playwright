@@ -1,0 +1,5 @@
+[ERROR] Error: page.waitForSelector: Page closed
+=========================== logs ===========================
+waiting for locator('text="Mis Apuestas"') to be visible
+  locator resolved to visible <span class="sb-filter--title color-muted">↵        Mis Apuestas↵      </span>
+============================================================

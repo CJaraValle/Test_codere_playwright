@@ -1,0 +1,4 @@
+[ERROR] Error: page.waitForSelector: Page closed
+=========================== logs ===========================
+waiting for locator('xpath=//button[text()="Click me"]') to be visible
+============================================================

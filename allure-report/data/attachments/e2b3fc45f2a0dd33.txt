@@ -1,0 +1,4 @@
+[ERROR] Error: page.click: Page closed
+=========================== logs ===========================
+waiting for locator('#access-button')
+============================================================

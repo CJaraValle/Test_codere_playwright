@@ -1,0 +1,9 @@
+[ERROR] Error: page.click: Browser closed.
+==================== Browser output: ====================
+<launching> C:\Users\carlos.jara\AppData\Local\ms-playwright\chromium-1084\chrome-win\chrome.exe --disable-field-trial-config --disable-background-networking --enable-features=NetworkService,NetworkServiceInProcess --disable-background-timer-throttling --disable-backgrounding-occluded-windows --disable-back-forward-cache --disable-breakpad --disable-client-side-phishing-detection --disable-component-extensions-with-background-pages --disable-component-update --no-default-browser-check --disable-default-apps --disable-dev-shm-usage --disable-extensions --disable-features=ImprovedCookieControls,LazyFrameLoading,GlobalMediaControls,DestroyProfileOnBrowserClose,MediaRouter,DialMediaRouteProvider,AcceptCHFrame,AutoExpandDetailsElement,CertificateTransparencyComponentUpdater,AvoidUnnecessaryBeforeUnloadCheckSync,Translate --allow-pre-commit-input --disable-hang-monitor --disable-ipc-flooding-protection --disable-popup-blocking --disable-prompt-on-repost --disable-renderer-backgrounding --force-color-profile=srgb --metrics-recording-only --no-first-run --enable-automation --password-store=basic --use-mock-keychain --no-service-autorun --export-tagged-pdf --disable-search-engine-choice-screen --no-sandbox --start-maximized --user-data-dir=C:\Users\CARLOS~1.JAR\AppData\Local\Temp\playwright_chromiumdev_profile-iuMZGZ --remote-debugging-pipe --no-startup-window
+<launched> pid=272
+[pid=272][err] [272:20104:1027/001542.578:ERROR:policy_logger.cc(157)] :components\enterprise\browser\controller\chrome_browser_cloud_management_controller.cc(163) Cloud management controller initialization aborted as CBCM is not enabled.
+[pid=272] <gracefully close start>
+=========================== logs ===========================
+waiting for locator('button').locator('text="LEIDO Y ACEPTO "')
+============================================================

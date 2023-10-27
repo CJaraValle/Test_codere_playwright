@@ -1,0 +1,4 @@
+[ERROR] Error: page.click: Target closed
+=========================== logs ===========================
+waiting for locator('button').locator('text="Acceder""')
+============================================================

@@ -1,0 +1,5 @@
+[ERROR] Login attempted.
+[ERROR] Error: page.textContent: Page closed
+=========================== logs ===========================
+waiting for locator('.error-message')
+============================================================

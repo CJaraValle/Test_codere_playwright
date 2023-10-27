@@ -1,0 +1,4 @@
+[ERROR] Error: page.textContent: Page closed
+=========================== logs ===========================
+waiting for locator('.success-message')
+============================================================

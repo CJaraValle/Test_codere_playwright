@@ -1,0 +1,4 @@
+[ERROR] Error: page.waitForSelector: Target closed
+=========================== logs ===========================
+waiting for locator('xpath=//button[text()="Acceder"]') to be visible
+============================================================

@@ -1,0 +1,4 @@
+[ERROR] Error: page.textContent: Target closed
+=========================== logs ===========================
+waiting for locator('.error-message')
+============================================================
